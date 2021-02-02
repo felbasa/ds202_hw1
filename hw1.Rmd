@@ -1,0 +1,41 @@
+---
+title: "Homework1"
+author: "Felix Baez-Santiago"
+date: "1/26/2021"
+output: html_document
+---
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+1. Create a folder named ds202_hw1, and either create an RMarkDown file hw1.Rmd under this folder or move the provided template into this folder. hw1.Rmd will include your solutions. The file and folder names are case-sensitive, which means hw1.Rmd and HW1.rmd are different. It is crucial to follow the exact folder structure and file names in this course, so that your homework can be reproduced.
+- Folder is created with these specifications
+
+2. Write your name in the YAML of your homework Rmd file.
+- Name is written in the YAML
+
+3. Write a paragraph to introduce yourself. Set your name in bold font and your major in italic.
+- My name is **Felix Baez-Santiago** and I am a junior in *Data Science*. I used to be a political science major but realized that statistics seemed much more interesting as it covers more topics. I was born and raised in the small coastal town of Quebradillas, Puerto Rico. I have a deep passion for learning anything from everywhere. My favorite topics include history, fantasy fiction and videogames. My hobbies include longboarding, table tennis and swimming. 
+
+4. Write a paragraph describing a job that you think is related to data science. Include a hyperlink and an image. Make sure your answer is in a nice format to read.
+- A job related to Data Science is that of a data engineer. This type of engineering focuses on optimizing, monitoring and managing data in their respective organization. They are responsible for finding trends in data and looking for ways to manage it more effectively. There are also communication and business skills needed for the job. This career field is relatively new and it is quickly developing. [Click here](https://www.cio.com/article/3292983/what-is-a-data-engineer.html#:~:text=Data%20engineers%20are%20responsible%20for,more%20useful%20to%20the%20enterprise.&text=Data%20engineers%20are%20often%20responsible,understand%20company's%20or%20client's%20objectives.) for a website article that goes more in depth on the job. 
+- This image outlines the responsibilities of this career. 
+![A Data Engineer's Responsibilities](/Users/felixbaez822/Documents/Spring 2021/DS 202/ds202_hw1/DataEngineerImage.jpg)
+
+
+5. What data topic will you be most interested in? (Optional) Provide a source of such dataset if you have.
+- I am interested in exploring business data specifically on internet traffic. [Here](https://www.kaggle.com/shivamb/netflix-shows) is a Kaggle link to access a dataset on Netflix movies and tv shows.
+
+6. To check that your R and Rstudio installation is correct, find the version of R by entering version into the R console. Include this command into a R code trunk in your solution Rmd file to have it automatically printed in the knitted html file.
+```{r}
+version
+```
+7. Install git.
+- Git is installed
+
+8. What is the version of your Git? To find out, go to the Terminal tab in RStudio (right to the Console tab), and type in the following command git --version. If it works, this shows that the setup of your terminal and Git is correct.
+![git version](/Users/felixbaez822/Documents/Spring 2021/DS 202/ds202_hw1/GitVersion.png)
+9. Configure your git username and user email by modifying and entering the following commands into the terminal
+- Registered git username and email using commands. 
+10. Register a GitHub account. What is your username?
+- My GitHub username is *felbasa*.

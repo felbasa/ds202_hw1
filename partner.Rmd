@@ -1,0 +1,13 @@
+---
+title: "partner"
+author: "Chris Anderson"
+date: "2/3/2021"
+output: html_document
+---
+
+
+My name is Chris Anderson, my Github username is: chris329
+
+In the most recent commit you added two files
+
+When trying to knit your hw1.rmd file, I got an error becuase the image you inserted could not be found on my laptop.
